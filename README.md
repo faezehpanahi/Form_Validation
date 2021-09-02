@@ -1,4 +1,5 @@
 # Form_Validation
-اعتبار سنجی فرم (Form Validation) 
+(Form Validation)
+اعتبار سنجی فرم  
 با استفاده از
 regular expression
